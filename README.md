@@ -131,7 +131,7 @@ docker compose up --build -d
 
 Master of Computer Applications (MCA)
 
-GitHub: [keerthuammu](https://github.com/keerthuammu)
+GitHub: https://github.com/keerthuammu/Student_Management_System
 
 ---
 
